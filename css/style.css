@@ -26,11 +26,12 @@ table {
     text-align: center;
 }
 
-.schedule td, th{
+.schedule th, td {
     border: 2px solid black;
     padding: 5px;
     text-align: center;
-}
+    vertical-align: center;
+ }
 
 td.spanned{
    background-color: coral;
