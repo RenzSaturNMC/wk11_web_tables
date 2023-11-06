@@ -1,5 +1,6 @@
 body {
     font-family: Arial, sans-serif;
+    background: linear-gradient(#e66465, #9198e5);;
 }
 
 table {
@@ -49,5 +50,3 @@ table caption{
     text-align: left;
     font-size: 25px
 }
-
-
